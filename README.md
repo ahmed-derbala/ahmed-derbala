@@ -1,53 +1,128 @@
-# 👋 Hi, I'm Ahmed Derbala 
-### Senior Node.js Engineer | Backend & Mobile Specialist
+# Ahmed Derbala  
+**Senior Node.js Engineer | Backend & Mobile Systems**
 
-[cite_start]I am a skilled Node.js engineer with over 5 years of expertise in delivering robust backend solutions[cite: 7]. [cite_start]I specialize in building scalable systems using **Express.js**, **Nest.js**, and **TypeScript** [cite: 7, 63][cite_start], with a deep focus on **MongoDB** and **Expo** for mobile development[cite: 7, 15, 63].
-
-[cite_start]I have a strong background in working with international teams from France and the UK, thriving in diverse and global environments[cite: 8].
-
----
-
-### 🚀 Technical Skills
-
-* [cite_start]**Backend & Frontend:** Node.js, Express.js, Nest.js, TypeScript, JavaScript, Socket.io, Expo[cite: 62, 63].
-* [cite_start]**Databases:** MongoDB, Redis[cite: 64, 65].
-* [cite_start]**DevOps & Testing:** Docker, PM2, AWS, GCP, Azure, Grafana, GitHub Actions, Jest, Playwright[cite: 21, 66, 67].
-* [cite_start]**API Integration:** Stripe, PartnerStack, Google Drive, Twitter, Intercom, Mixpanel[cite: 20, 31].
+📍 Tunisia · 🌍 Open to Remote / Europe Relocation  
+📧 derbala.ahmed531992@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-derbala) · [GitHub](https://github.com/ahmed-derbala)
 
 ---
 
-### 💼 Professional Experience Highlights
+## 👋 About Me
 
-* **Node.js Freelancer** (Since Feb 2025)
-    * [cite_start]Developing scalable mobile applications and small business management tools like **Drinaluza**[cite: 15, 16].
-* **Cognism | Node.js Developer** (Apr 2023 – Jan 2025)
-    * [cite_start]Integrated third-party APIs like Stripe and PartnerStack and managed CI/CD processes using Docker and GitHub Actions[cite: 20, 21].
-* **Collaboration Capital | Node.js Backend Developer** (Jun 2020 – Mar 2023)
-    * [cite_start]Designed robust logging systems (Winston, Logtail) and developed custom file-handling modules for Excel, CSV, and PDF processing[cite: 28, 29].
-* **GOMYCODE | Node.js Backend Developer** (Jan 2020 – May 2020)
-    * [cite_start]Led the development of a candidate assessment platform and authored professional Node.js course content[cite: 36, 37].
+Senior **Node.js Engineer** with **5+ years of professional experience** building scalable backend systems and mobile applications.  
+I specialize in **Express.js, MongoDB, and Expo**, and I have worked with **French and British teams** in fully remote, production-grade environments.
+
+I enjoy designing clean APIs, improving system reliability, and contributing to products with real-world impact.
 
 ---
 
-### 🎓 Education & Languages
+## 🧠 Core Skills
 
-* [cite_start]**Education:** Computer Science Engineer (Mobile Information Systems) from **ESPRIT**, Tunisia[cite: 45, 46].
-* **Languages:**
-    * [cite_start]**Arabic:** Native (C2)[cite: 53, 54].
-    * [cite_start]**English:** Professional (C1)[cite: 55, 56].
-    * [cite_start]**French:** Bilingual (C1)[cite: 57, 58].
-    * [cite_start]**Italian:** Beginner (A2)[cite: 59, 60].
+### Backend & Frontend
+- Node.js, Express.js, Nest.js
+- REST APIs, Socket.io
+- JavaScript, TypeScript
+- Expo (Mobile Applications)
+
+### Databases
+- MongoDB
+- Redis
+- PostgreSQL (Sequelize)
+
+### DevOps & Testing
+- Docker, PM2
+- AWS, GCP, Azure
+- GitHub Actions (CI/CD)
+- Grafana
+- Jest, Playwright
 
 ---
 
-### 📫 Connect with Me
+## 💼 Professional Experience
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/ahmed-derbala](https://linkedin.com/in/ahmed-derbala) [cite: 51]
-* [cite_start]**Email:** [derbala.ahmed531992@gmail.com](mailto:derbala.ahmed531992@gmail.com) [cite: 2]
-* [cite_start]**Location:** Based in Tunisia; open to relocation to Europe or remote work[cite: 9].
+### **Freelance Node.js Engineer**  
+**Self-employed · Remote**  
+**Feb 2025 – Present**
+
+- Building scalable backend and mobile solutions using **Express.js, Expo, and MongoDB**
+- VPS setup, deployment, monitoring, and maintenance
+- Project: **Drinaluza** – small business management platform
 
 ---
 
-### 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-derbala&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-derbala&layout=compact&theme=radical)
+### **Node.js Developer**  
+**Cognism (Kaspr subsidiary) · Remote**  
+**Apr 2023 – Jan 2025**
+
+- Integrated third-party APIs: **Stripe, PartnerStack**
+- Implemented CI/CD pipelines using **Docker, GitHub Actions**
+- Monitored production systems with **Grafana**
+- Improved backend performance and data integrity for **Kaspr**
+
+---
+
+### **Node.js Backend Developer**  
+**Collaboration Capital · Fintech · Remote**  
+**Jun 2020 – Mar 2023**
+
+- Refactored legacy backend systems
+- Designed logging infrastructure using **Winston & Logtail**
+- Built custom file-handling modules (Excel, CSV, Image, PDF)
+- Participated in **technical hiring interviews**
+- Integrated APIs:
+  - Google Drive
+  - Twitter
+  - PartnerStack
+  - Vitally
+  - Intercom
+  - Mixpanel
+
+---
+
+### **Node.js Backend Developer**  
+**GOMYCODE · E-learning Platform**  
+**Jan 2020 – May 2020**
+
+- Led development of a **candidate assessment platform**
+- Authored Node.js course content
+- Contributed to an **anti-COVID-19 platform**
+- Deployment using **Azure & Docker**
+
+---
+
+### **Node.js Developer**  
+**SBP-TECH · Tunisia**  
+**Apr 2019 – Dec 2019**
+
+- Built an **ERP system for pharmacy operations**
+- Developed staff planning and inventory management features
+- Stack: **Node.js, Express.js, Sequelize, PostgreSQL**
+
+---
+
+## 🎓 Education
+
+**Computer Science Engineer – Mobile Information Systems**  
+**ESPRIT · Ariana, Tunisia**  
+*2016 – 2019*
+
+---
+
+## 🌍 Languages
+
+- Arabic — Native (C2)
+- French — Bilingual (C1)
+- English — Professional (C1)
+- Italian — Beginner (A2)
+
+---
+
+## 📫 Contact & Links
+
+- Email: **derbala.ahmed531992@gmail.com**
+- GitHub: https://github.com/ahmed-derbala
+- LinkedIn: https://www.linkedin.com/in/ahmed-derbala
+
+---
+
+⭐ *Always open to collaboration, backend challenges, and impactful projects.*
